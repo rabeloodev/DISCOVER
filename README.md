@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por kauarabelo.dev no curso Discover da Rockeseat
+Feito por Kauarabelo.dev no curso Discover da Rockeseat
